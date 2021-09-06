@@ -2,7 +2,6 @@
 KK SUPERMARKET INVENTORY MANAGEMENT SYSTEM
 
 ABOUT THE PROJECT:
-
     The project is about the inventory management system which is made using Python 3.6 for json file managing technique. This project can store the data of all products which are stored in the store's inventory. This project differentiates products based on their product id and product name. No two products can have  same id or name. This project also produces a bill and stores the data of all the sales happening in the store. Overall this project is useful for all shops all over the world only if it is developed into an application with better user interface.
 
 ABOUT THE AUTHOR:
