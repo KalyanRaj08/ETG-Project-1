@@ -14,10 +14,10 @@ After the welcome page to enter into the Inventory management you need an accoun
 
 At the home page there is 3 options :-
 
- 1) Newuser: If you are new and you don't have an account you should create one in this option. In the enter your choice press 1 and then press enter.
+1) Newuser: If you are new and you don't have an account you should create one in this option. In the enter your choice press 1 and then press enter.
 
 
-2)Have account: If you already have account or if you just created an account you would be directed back to home page there you should go to have account option (press 2 and press enter) to get into inventory management system.
+2) Have account: If you already have account or if you just created an account you would be directed back to home page there you should go to have account option (press 2 and press enter) to get into inventory management system.
 
 3) account list: This option is there just in case you don't know whether your account exists or not. In this the accounts usernames will be listed. Press 3 and enter for this option.
 
